@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redux on Rushil Sethi</title>
+    <link>//localhost:1313/tags/redux/</link>
+    <description>Recent content in Redux on Rushil Sethi</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/redux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bit Beacon</title>
+      <link>//localhost:1313/projects/bit-beacon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/bit-beacon/</guid>
+      <description>A cryptocurrency app providing real-time prices, news, and exchange data with interactive visualizations.</description>
+    </item>
+    <item>
+      <title>ReactJS</title>
+      <link>//localhost:1313/certifications/reactjs_udemy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/certifications/reactjs_udemy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Issuing Organization:&lt;/strong&gt; Academind by Maximiliam Schwarzuller, Udemy&lt;br&gt;
+&lt;strong&gt;Issued Date:&lt;/strong&gt; 26th October, 2022&lt;br&gt;
+&lt;strong&gt;Skills Covered:&lt;/strong&gt; ReactJS, Redux&lt;/p&gt;
+&lt;p&gt;📜 &lt;strong&gt;&lt;a href=&#34;//localhost:1313/certifications/ReactJS_Course_Udemy&#34;&gt;View Certificate&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

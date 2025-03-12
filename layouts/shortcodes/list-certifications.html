@@ -1,0 +1,12 @@
+<div class="certification-grid">
+    {{ range where (where .Site.Pages "Section" "certifications") "Kind" "page" }}
+    <div class="certification-card">
+      <a href="{{ .RelPermalink }}">
+        <div class="certification-content">
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Params.shortDescription }}</p>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+</div>

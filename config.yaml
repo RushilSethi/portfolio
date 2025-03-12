@@ -1,0 +1,96 @@
+baseURL: ""
+languageCode: en-us
+title: Rushil Sethi
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: skills
+      name: Skills
+      url: /skills/
+      weight: 20
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 30
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 40
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 50
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 60
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+  assets:
+    customCSS: ["css/custom.css"]
+
+  
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Rushil Sethi"
+    subtitle: Hi 👋, I’m a web developer and designer focused on creating seamless digital experiences. With my passion for design and UI/UX trends, I aim to solve real-world problems through visually engaging and functional software solutions. When I’m not coding, I’m usually out exploring new spots, getting lost in a good game, or just enjoying some downtime. Let’s connect and make something awesome together!
+ 
+    imageUrl: "/profile_img1.jpg"
+    imageWidth: 220
+    imageHeight: 220
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:rushilsethi333@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/rushil-sethi-3aa3a1217"
+    - name: "github"
+      url: "https://github.com/RushilSethi"
+    - name: "cv"
+      url: "/resume.pdf"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
