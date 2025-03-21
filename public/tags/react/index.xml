@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>React on Rushil Sethi</title>
-    <link>//localhost:1313/tags/react/</link>
+    <link>http://localhost:1313/tags/react/</link>
     <description>Recent content in React on Rushil Sethi</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mitraz</title>
-      <link>//localhost:1313/projects/mitraz/</link>
+      <title>Pikatube</title>
+      <link>http://localhost:1313/projects/pikatube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/mitraz/</guid>
-      <description>A social media platform inspired by Pinterest that allows users to upload images and text.</description>
+      <guid>http://localhost:1313/projects/pikatube/</guid>
+      <description>A simple, free, and engaging video-sharing and streaming platform</description>
     </item>
     <item>
       <title>Bit Beacon</title>
-      <link>//localhost:1313/projects/bit-beacon/</link>
+      <link>http://localhost:1313/projects/bit-beacon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/bit-beacon/</guid>
-      <description>A cryptocurrency app providing real-time prices, news, and exchange data with interactive visualizations.</description>
+      <guid>http://localhost:1313/projects/bit-beacon/</guid>
+      <description>A finance app providing real-time cryptocurrency and mutual fund data, market insights, and interactive visualizations.</description>
     </item>
     <item>
       <title>Bajao Music Player</title>
-      <link>//localhost:1313/projects/music-bajao/</link>
+      <link>http://localhost:1313/projects/music-bajao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/music-bajao/</guid>
+      <guid>http://localhost:1313/projects/music-bajao/</guid>
       <description>An API-based online music player using Saavn API for seamless streaming</description>
     </item>
     <item>
-      <title>Pikatube</title>
-      <link>//localhost:1313/projects/pikatube/</link>
+      <title>Mitraz</title>
+      <link>http://localhost:1313/projects/mitraz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/pikatube/</guid>
-      <description>A simple, free, and engaging video-sharing platform</description>
+      <guid>http://localhost:1313/projects/mitraz/</guid>
+      <description>A social media platform inspired by Pinterest that allows users to upload images and text.</description>
     </item>
   </channel>
 </rss>

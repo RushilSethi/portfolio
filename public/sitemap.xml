@@ -2,148 +2,156 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blog/aws-saa-certification/</loc>
+    <loc>http://localhost:1313/blog/first/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/first/</loc>
+    <loc>http://localhost:1313/blog/aws-saa-certification/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/face-landmarks-detection/</loc>
+    <loc>http://localhost:1313/blog/face-landmarks-detection/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/mitraz/</loc>
+    <loc>http://localhost:1313/projects/pikatube/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/bit-beacon/</loc>
+    <loc>http://localhost:1313/projects/bit-beacon/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/daily-drizzle/</loc>
+    <loc>http://localhost:1313/projects/music-bajao/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/music-bajao/</loc>
+    <loc>http://localhost:1313/projects/mitraz/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/pikatube/</loc>
+    <loc>http://localhost:1313/projects/daily-drizzle/</loc>
   </url><url>
-    <loc>//localhost:1313/experience/niti_aayog/</loc>
+    <loc>http://localhost:1313/experience/niti_aayog/</loc>
   </url><url>
-    <loc>//localhost:1313/experience/viser_techno/</loc>
+    <loc>http://localhost:1313/experience/viser_techno/</loc>
   </url><url>
-    <loc>//localhost:1313/experience/delta_edge/</loc>
+    <loc>http://localhost:1313/experience/delta_edge/</loc>
   </url><url>
-    <loc>//localhost:1313/certifications/mern_stack_internshala/</loc>
+    <loc>http://localhost:1313/certifications/mern_stack_internshala/</loc>
   </url><url>
-    <loc>//localhost:1313/certifications/data_analytics_bpit/</loc>
+    <loc>http://localhost:1313/certifications/data_analytics_bpit/</loc>
   </url><url>
-    <loc>//localhost:1313/certifications/reactjs_udemy/</loc>
+    <loc>http://localhost:1313/certifications/reactjs_udemy/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/android-dev/</loc>
+    <loc>http://localhost:1313/tags/android-dev/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/api-integration/</loc>
+    <loc>http://localhost:1313/tags/api-integration/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/appwrite/</loc>
+    <loc>http://localhost:1313/tags/appwrite/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/argocd/</loc>
+    <loc>http://localhost:1313/tags/argocd/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/aws/</loc>
+    <loc>http://localhost:1313/tags/aws/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/bootstrap/</loc>
+    <loc>http://localhost:1313/tags/bootstrap/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/certification/</loc>
+    <loc>http://localhost:1313/tags/certification/</loc>
   </url><url>
-    <loc>//localhost:1313/certifications/</loc>
+    <loc>http://localhost:1313/certifications/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/charts/</loc>
+    <loc>http://localhost:1313/tags/charts/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ci/cd/</loc>
+    <loc>http://localhost:1313/tags/ci/cd/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/crypto/</loc>
+    <loc>http://localhost:1313/tags/crypto/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/deal-dog/</loc>
+    <loc>http://localhost:1313/tags/deal-dog/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/dl/</loc>
+    <loc>http://localhost:1313/tags/dl/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/docker/</loc>
+    <loc>http://localhost:1313/tags/docker/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/dsa/</loc>
+    <loc>http://localhost:1313/tags/dsa/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/excel/</loc>
+    <loc>http://localhost:1313/tags/excel/</loc>
   </url><url>
-    <loc>//localhost:1313/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/finance/</loc>
+    <loc>http://localhost:1313/tags/finance/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/full-stack-development/</loc>
+    <loc>http://localhost:1313/tags/full-stack-development/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/grafana/</loc>
+    <loc>http://localhost:1313/tags/grafana/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/helm/</loc>
+    <loc>http://localhost:1313/tags/helm/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/infrastructure/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/internship/</loc>
+    <loc>http://localhost:1313/tags/infrastructure/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/internship/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/kubernetes/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/langchain/</loc>
+    <loc>http://localhost:1313/tags/kubernetes/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/linux/</loc>
+    <loc>http://localhost:1313/tags/langchain/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/llm/</loc>
+    <loc>http://localhost:1313/tags/linux/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/mern/</loc>
+    <loc>http://localhost:1313/tags/llm/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ml/</loc>
+    <loc>http://localhost:1313/tags/mern/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/mongodb/</loc>
+    <loc>http://localhost:1313/tags/ml/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/music-streaming/</loc>
+    <loc>http://localhost:1313/tags/mongodb/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/niti-aayog/</loc>
+    <loc>http://localhost:1313/tags/music-streaming/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/node.js/</loc>
+    <loc>http://localhost:1313/tags/mutual-funds/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/tags/niti-aayog/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/tags/node.js/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/pytorch/</loc>
+    <loc>http://localhost:1313/tags/portfolio/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/react/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/react-native/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/reactjs/</loc>
+    <loc>http://localhost:1313/tags/pytorch/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/redux/</loc>
+    <loc>http://localhost:1313/tags/react/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/research/</loc>
+    <loc>http://localhost:1313/tags/react-native/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/tags/reactjs/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/saa/</loc>
+    <loc>http://localhost:1313/tags/redux/</loc>
   </url><url>
-    <loc>//localhost:1313/search/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
   </url><url>
-    <loc>//localhost:1313/skills/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/social-media/</loc>
+    <loc>http://localhost:1313/tags/saa/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/solutions-architect/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/sql/</loc>
+    <loc>http://localhost:1313/skills/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/social-media/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/tailwind-css/</loc>
+    <loc>http://localhost:1313/tags/solutions-architect/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/technology/</loc>
+    <loc>http://localhost:1313/tags/sql/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/video-sharing/</loc>
+    <loc>http://localhost:1313/tags/static-site/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/weather-app/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/web-development/</loc>
+    <loc>http://localhost:1313/tags/tailwind-css/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/video-sharing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/weather-app/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
   </url>
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Full Stack Development on Rushil Sethi</title>
-    <link>//localhost:1313/tags/full-stack-development/</link>
+    <link>http://localhost:1313/tags/full-stack-development/</link>
     <description>Recent content in Full Stack Development on Rushil Sethi</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/full-stack-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/full-stack-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Certification in Full Stack Development</title>
-      <link>//localhost:1313/certifications/mern_stack_internshala/</link>
+      <link>http://localhost:1313/certifications/mern_stack_internshala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/certifications/mern_stack_internshala/</guid>
+      <guid>http://localhost:1313/certifications/mern_stack_internshala/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Issuing Organizations:&lt;/strong&gt; Internshala Trainings, NSDC (Skill India)&lt;br&gt;
 &lt;strong&gt;Issued Date:&lt;/strong&gt; March 2025&lt;br&gt;
 &lt;strong&gt;Skills Covered:&lt;/strong&gt; MERN Stack, Data Structures &amp;amp; Algorithms, Backend &amp;amp; API Development&lt;/p&gt;
-&lt;p&gt;📜 &lt;strong&gt;&lt;a href=&#34;//localhost:1313/certifications/Full_Stack_Development-Certificate_of_Graduation.pdf&#34;&gt;View Internshala Certificate&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-📜 &lt;strong&gt;&lt;a href=&#34;//localhost:1313/certifications/CAN_32146440_4138150.pdf&#34;&gt;View NSDC Certificate&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;📜 &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/certifications/Full_Stack_Development-Certificate_of_Graduation.pdf&#34;&gt;View Internshala Certificate&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+📜 &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/certifications/CAN_32146440_4138150.pdf&#34;&gt;View NSDC Certificate&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

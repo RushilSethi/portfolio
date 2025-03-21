@@ -1,12 +1,12 @@
 ---
-title: "I passed the AWS SAA Certification Exam"
-description: "How I passed the AWS Solutions Architect-Associate Certification Exam"
-dateString: May 2022
-draft: true
-tags: ["AWS", "SAA", "Certification", "Solutions Architect"]
-weight: 102
+title: "Building My First Dev Portfolio"
+description: "My journey creating a developer portfolio with Hugo and PaperMod"
+dateString: March 2025
+draft: false
+tags: ["Web Development", "Hugo", "Portfolio", "Static Site"]
+weight: 100
 cover:
-    image: "/blog/aws-saa-certification/cover.jpeg"
+    image: "blog_images/first/first_cover.jpg"
 ---
 
 # Building My First Dev Portfolio
@@ -25,7 +25,8 @@ Building this site expanded my technical toolkit in several ways:
 - Implementing continuous deployment with GitHub Actions
 - Managing content through markdown and front matter
 - Exploring Hugo's templating system and partial layouts
-- Optimizing for performance and SEO
+- Creating some custom elements
+- Optimizing for SEO
 
 ## What's Next
 
@@ -39,4 +40,4 @@ This site will grow with me as I continue learning. I'm excited to:
 
 Check out my [projects page](/projects) to see what I'm working on. I'll be updating it regularly with new work and side projects.
 
-Feel free to connect with me on [GitHub](your-github) or [LinkedIn](your-linkedin) to follow my development journey!
+Feel free to connect with me on [GitHub](https://github.com/RushilSethi) or [LinkedIn](https://www.linkedin.com/in/rushil-sethi-3aa3a1217) to follow my development journey!

@@ -1,5 +1,6 @@
-baseURL: ""
+baseURL: "https://rushil-sethi.netlify.app/"
 languageCode: en-us
+defaultContentLanguage: "en"
 title: Rushil Sethi
 theme: PaperMod
 
@@ -32,6 +33,9 @@ menu:
 
 params:
   # theme
+  description: "Portfolio of Rushil Sethi - MERN Stack Developer"
+  keywords: ["Rushil Sethi", "Portfolio", "Web Developer", "MERN Stack"]
+  canonicalURL: "https://rushil-sethi.netlify.app/"
   showToc: true
   TocOpen: false
   ShowBreadCrumbs: true
@@ -39,6 +43,10 @@ params:
   hideMeta: false
   assets:
     customCSS: ["css/custom.css"]
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
 
   
   # for enchanced SEO
