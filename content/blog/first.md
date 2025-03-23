@@ -15,14 +15,14 @@ I recently built this portfolio using Hugo and the PaperMod theme. Here's a look
 
 ## Why This Approach?
 
-As a developer starting out, I chose to build with Hugo and PaperMod rather than creating from scratch. This decision let me focus on what matters most right now - documenting my projects and learning journey. While I plan to build a custom portfolio in the future, having a clean, functional site up and running helps me showcase my work today.
+As a developer starting out, I chose to build with Hugo and PaperMod rather than creating from scratch. This decision let me focus on what matters most right now - documenting my projects and learning journey. And with Hugo, i was able to get this portfolio up and running in just days. While I plan to build a custom portfolio in the future, having a clean, functional site up and running helps me showcase my work today.
 
 ## The Development Journey
 
 Building this site expanded my technical toolkit in several ways:
 - Diving into static site generation
 - Setting up a development environment with Go and Hugo
-- Implementing continuous deployment with GitHub Actions
+- Implementing continuous deployment with GitHub and Netlify
 - Managing content through markdown and front matter
 - Exploring Hugo's templating system and partial layouts
 - Creating some custom elements
