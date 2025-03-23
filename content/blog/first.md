@@ -15,7 +15,7 @@ I recently built this portfolio using Hugo and the PaperMod theme. Here's a look
 
 ## Why This Approach?
 
-As a developer starting out, I chose to build with Hugo and PaperMod rather than creating from scratch. This decision let me focus on what matters most right now - documenting my projects and learning journey. And with Hugo, i was able to get this portfolio up and running in just days. While I plan to build a custom portfolio in the future, having a clean, functional site up and running helps me showcase my work today.
+As a developer starting out, I chose to build with Hugo and PaperMod rather than creating from scratch. This decision let me focus on what matters most right now - documenting my projects and learning journey. And with Hugo, i was able to get this portfolio up and running in just 3 days. While I plan to build a custom portfolio in the future, having a clean, functional site up and running helps me showcase my work today.
 
 ## The Development Journey
 
