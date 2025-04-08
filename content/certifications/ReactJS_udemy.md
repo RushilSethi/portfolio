@@ -11,4 +11,4 @@ weight: 403
 **Issued Date:** 26th October, 2022  
 **Skills Covered:** ReactJS, Redux
 
-📜 **[View Certificate](/certifications/ReactJS_Course_Udemy)** 
+📜 **[View Certificate](/certifications/ReactJS_Course_Udemy.pdf)** 
